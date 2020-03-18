@@ -55,4 +55,4 @@ The below implementations have been carried out on Python3 and OpenCV.
 
 ## Reference
 
-[ENPM673] (https://advancedengineering.umd.edu/enpm673)
+  * [ENPM673](https://advancedengineering.umd.edu/enpm673)
