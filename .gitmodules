@@ -1,0 +1,18 @@
+[submodule "AR Tag Tracking"]
+	path = AR Tag Tracking
+	url = https://github.com/ramaprashanth/ar-tag-tracking.git
+[submodule "LK Template Tracking"]
+	path = LK Template Tracking
+	url = https://github.com/ramaprashanth/lk-template-tracking.git
+[submodule "Lane Detection"]
+	path = Lane Detection
+	url = https://github.com/ramaprashanth/lane-detection.git
+[submodule "Underwater Buoy Detection"]
+	path = Underwater Buoy Detection
+	url = https://github.com/ramaprashanth/underwater-buoy-detection.git
+[submodule "Visual Odometry"]
+	path = Visual Odometry
+	url = https://github.com/ramaprashanth/visual-odometry.git
+[submodule "Traffic Sign Recognition"]
+	path = Traffic Sign Recognition
+	url = https://github.com/ramaprashanth/traffic-sign-recognition.git
