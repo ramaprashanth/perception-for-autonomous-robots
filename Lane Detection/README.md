@@ -12,5 +12,19 @@ Place the `challenge_video.mp4` and `project_video.mp4` in the same folder as th
 2. Eachofthefollowingcodepartsasksyoutoselecttheinputsequenceyouwouldliketorun the code with.
 3. Run `python ./part_1.py` to start Lane detection
 
+## Results
+
+  <p align="center">
+  <img src="https://github.com/ramaprashanth/perception-for-autonomous-robots/blob/master/Lane%20Detection/result_1.png">
+  </p>
+
+  <p align="center">
+  <img src="https://github.com/ramaprashanth/perception-for-autonomous-robots/blob/master/Lane%20Detection/result_2.png">
+  </p>
+
+  <p align="center">
+  <img src="https://github.com/ramaprashanth/perception-for-autonomous-robots/blob/master/Lane%20Detection/result_3.png">
+  </p>
+
 ## Reference
 https://medium.com/@tjosh.owoyemi/finding-lane-lines-with-colour-thresholds-beb542e0d839

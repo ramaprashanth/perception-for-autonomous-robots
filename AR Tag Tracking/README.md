@@ -13,3 +13,13 @@ Place the `Input Sequences` and `Reference Images` in the same folder as the cod
 3. Run `python ./part_1.py` for AR Tag detection (1)
 4. Run `python ./part_2.1.py` for Superimposing Lena image on AR Tag (2)
 5. Run `python ./part_2.2.py` for Placing virtual cube on AR Tag (3)
+
+## Results
+
+  <p align="center">
+  <img src="https://github.com/ramaprashanth/perception-for-autonomous-robots/blob/master/AR%20Tag%20Tracking/result_1.png">
+  </p>
+
+  <p align="center">
+  <img src="https://github.com/ramaprashanth/perception-for-autonomous-robots/blob/master/AR%20Tag%20Tracking/result_2.png">
+  </p>
