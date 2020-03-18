@@ -6,51 +6,51 @@ The below implementations have been carried out on Python3 and OpenCV.
 
 ## Projects
 
-  * [AR Tag Tracking](https://github.com/ramaprashanth/perception-for-autonomous-robots/tree/master/AR%20Tag%20Tracking)
+  * [AR Tag Tracking](https://github.com/ramaprashanth/ar-tag-tracking)
   
   Detected and Tracked AR Tags and overlayed object onto the corresponding AR Tag.
   <p align="center">
-  <img src="https://github.com/ramaprashanth/perception-for-autonomous-robots/blob/master/AR%20Tag%20Tracking/result_1.png">
+  <img src="https://github.com/ramaprashanth/ar-tag-tracking/blob/master/result_1.png">
   </p>
 
-  * [Lane Detection](https://github.com/ramaprashanth/perception-for-autonomous-robots/tree/master/Lane%20Detection)
+  * [Lane Detection](https://github.com/ramaprashanth/lane-detection)
   
   Lane Detection: Detected and tracked lanes from the video given. Turn Prediction is also included.
 
   <p align="center">
-  <img src="https://github.com/ramaprashanth/perception-for-autonomous-robots/blob/master/Lane%20Detection/result_1.png">
+  <img src="https://github.com/ramaprashanth/lane-detection/blob/master/result_1.png">
   </p>
 
-  * [Underwater Buoy Detection](https://github.com/ramaprashanth/perception-for-autonomous-robots/tree/master/Underwater%20Buoy%20Detection)
+  * [Underwater Buoy Detection](https://github.com/ramaprashanth/underwater-buoy-detection)
   
   Continuously tracked 3 differently colored underwater buoys.
 
   <p align="center">
-  <img src="https://github.com/ramaprashanth/perception-for-autonomous-robots/blob/master/Underwater%20Buoy%20Detection/result_1.png">
+  <img src="https://github.com/ramaprashanth/underwater-buoy-detection/blob/master/result_1.png">
   </p>
 
-  * [Lucas-Kanade Template Tracking](https://github.com/ramaprashanth/perception-for-autonomous-robots/tree/master/LK%20Template%20Tracking)
+  * [Lucas-Kanade Template Tracking](https://github.com/ramaprashanth/lk-template-tracking)
   
   Tracked Car, Human and Vase using Lucas-Kanade Template Tracking
 
   <p align="center">
-  <img src="https://github.com/ramaprashanth/perception-for-autonomous-robots/blob/master/LK%20Template%20Tracking/result_1.png">
+  <img src="https://github.com/ramaprashanth/lk-template-tracking/blob/master/result_1.png">
   </p>
 
-  * [Visual Odometry](https://github.com/ramaprashanth/perception-for-autonomous-robots/tree/master/Visual%20Odometry)
+  * [Visual Odometry](https://github.com/ramaprashanth/visual-odometry)
   
   Calculated the trajectory of a camera inside a moving car. The car circles around a block. Comparisons between matlab used Function and User Defined Functions are also made.
 
   <p align="center">
-  <img src="https://github.com/ramaprashanth/perception-for-autonomous-robots/blob/master/Visual%20Odometry/result_1.png">
+  <img src="https://github.com/ramaprashanth/visual-odometry/blob/master/result_1.png">
   </p>
 
-  * [Traffic Sign Recognition](https://github.com/ramaprashanth/perception-for-autonomous-robots/tree/master/Traffic%20Sign%20Recognition)
+  * [Traffic Sign Recognition](https://github.com/ramaprashanth/traffic-sign-recognition)
 
   Used MSER features and an SVM classifier to detect traffic signs and make a bounding box around them.
 
   <p align="center">
-  <img src="https://github.com/ramaprashanth/perception-for-autonomous-robots/blob/master/Traffic%20Sign%20Recognition/result_1.png">
+  <img src="https://github.com/ramaprashanth/traffic-sign-recognition/blob/master/result_1.png">
   </p>
 
 ## Reference
