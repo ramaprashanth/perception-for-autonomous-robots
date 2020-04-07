@@ -1,4 +1,6 @@
 # Perception for Autonomous Robots
+[![Packagist](https://img.shields.io/packagist/l/doctrine/orm.svg)](LICENSE.md)
+---
 
 The Projects explored cover Image Processing (Image Enhancement, Filtering, Advanced Edge and Texture ), 3D Vision (3D Geometry from Multiple view geometry, Motion Processing and Stereo) and Image Segmentation and Object Recognition.
 
